@@ -1,0 +1,11 @@
+C:\Users\AdriennZakar\work\POC\DBFirstPOC\DBFirstPOC\bin\Debug\DBFirstPOC.exe.config
+C:\Users\AdriennZakar\work\POC\DBFirstPOC\DBFirstPOC\bin\Debug\DBFirstPOC.exe
+C:\Users\AdriennZakar\work\POC\DBFirstPOC\DBFirstPOC\bin\Debug\DBFirstPOC.pdb
+C:\Users\AdriennZakar\work\POC\DBFirstPOC\DBFirstPOC\bin\Debug\EntityFramework.dll
+C:\Users\AdriennZakar\work\POC\DBFirstPOC\DBFirstPOC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AdriennZakar\work\POC\DBFirstPOC\DBFirstPOC\bin\Debug\EntityFramework.xml
+C:\Users\AdriennZakar\work\POC\DBFirstPOC\DBFirstPOC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AdriennZakar\work\POC\DBFirstPOC\DBFirstPOC\obj\Debug\DBFirstPOC.csprojAssemblyReference.cache
+C:\Users\AdriennZakar\work\POC\DBFirstPOC\DBFirstPOC\obj\Debug\DBFirstPOC.csproj.CopyComplete
+C:\Users\AdriennZakar\work\POC\DBFirstPOC\DBFirstPOC\obj\Debug\DBFirstPOC.exe
+C:\Users\AdriennZakar\work\POC\DBFirstPOC\DBFirstPOC\obj\Debug\DBFirstPOC.pdb
